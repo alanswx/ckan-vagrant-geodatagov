@@ -1,0 +1,3 @@
+[submodule "ckanext-geodatagov"]
+	path = ckanext-geodatagov
+	url = https://github.com/GSA/ckanext-geodatagov.git
