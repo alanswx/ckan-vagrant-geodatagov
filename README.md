@@ -11,7 +11,7 @@ This attempts to use the ansible script from the (https://github.com/GSA/ckanext
 2. Install the lastest [vagrant](http://downloads.vagrantup.com/)
 3. Install pip
 4. Install ansible
-3. Clone this repository, eg `git clone git://github.com/`
+3. Clone this repository, eg `git clone git://github.com/ckan-vagrant-geodatagov.git`
 4. Move to the directory with your terminal application `cd ckan-vagrant-geodatagov/`
 5. setup the link
 5. Create the instance `vagrant up`
