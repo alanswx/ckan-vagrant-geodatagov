@@ -51,7 +51,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
         "dev" => ["default"],
         "build" => ["default"]
     }
-   ansible.playbook = "provisioning/datagov-devserver.yml"
+   #ansible.playbook = "provisioning/datagov-devserver.yml"
+   ansible.playbook = "provisioning/noaa-devserver.yml"
    #ansible.inventory_path = "vagrant/ansible.hosts"
   end
 
