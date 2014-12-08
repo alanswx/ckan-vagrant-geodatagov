@@ -1,3 +1,4 @@
 [submodule "ckanext-geodatagov"]
 	path = ckanext-geodatagov
 	url = git@github.com:18F/ckanext-geodatagov.git
+	branch = master
